@@ -1,27 +1,38 @@
-# Portfolio
+# Meu Portfólio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/seu-usuario/seu-projeto)
+[![Imagem](https://img.shields.io/badge/Imagem-Portfolio-blueviolet)](https://github.com/seu-usuario/seu-projeto)
 
-## Development server
+## Descrição
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este é o repositório do meu portfólio em desenvolvimento. Ele será uma landing page que destaca minha experiência, projetos e habilidades no campo do desenvolvimento web.
 
-## Code scaffolding
+## Funcionalidades
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Landing Page do Portfólio:** Apresentação visual dos meus projetos e habilidades.
+- **Seção de Projetos:** Destaque para alguns dos meus projetos anteriores.
+- **Habilidades Técnicas:** Lista das tecnologias e habilidades que possuo.
+- **Formulário de Contato:** Uma maneira fácil para as pessoas entrarem em contato comigo.
 
-## Build
+## Tecnologias Utilizadas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Angular 16
+- TypeScript
+- Sass (para estilos)
+- Visual Studio Code (IDE)
 
-## Running unit tests
+## Como Executar Localmente
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
+2. Navegue até o diretório: `cd seu-projeto`
+3. Instale as dependências: `npm install`
+4. Inicie o servidor de desenvolvimento: `ng serve`
+5. Abra o navegador e acesse `http://localhost:4200/`
 
-## Running end-to-end tests
+## Contribuições
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
 
-## Further help
+## Licença
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
