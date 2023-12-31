@@ -16,10 +16,10 @@ Este é o repositório do meu portfólio em desenvolvimento. Ele será uma landi
 
 ## Tecnologias Utilizadas
 
-- Angular 16
-- TypeScript
-- Sass (para estilos)
-- Visual Studio Code (IDE)
+- Angular 16 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- Sass (para estilos) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+- Visual Studio Code (IDE) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Como Executar Localmente
 
