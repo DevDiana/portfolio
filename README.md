@@ -29,10 +29,12 @@ Este é o repositório do meu portfólio em desenvolvimento. Ele será uma landi
 4. Inicie o servidor de desenvolvimento: `ng serve`
 5. Abra o navegador e acesse `http://localhost:4200/`
 
-## Contribuições
+6. ## Autora
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
+[Diana Regina] - [devdianaregina@gmail.com](mailto:devdianaregina@gmail.com)
 
-## Licença
+---
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+**Observação:** Este é um projeto em constante evolução. Novas funcionalidades e projetos serão adicionados ao longo do tempo para refletir meu desenvolvimento contínuo como profissional.
+
+
